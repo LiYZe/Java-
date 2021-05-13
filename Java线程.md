@@ -154,14 +154,21 @@ CPU不再执行当前的线程，保存当前线程状态，恢复另一个线�
 
 垃圾回收器为守护线程。
 
+# 状态
 
+## 五种状态
 
+操作系统层面
 
+<div align="center"> <img src="https://user-images.githubusercontent.com/37955886/118064612-ed8c6200-b3cd-11eb-8b40-e7a98e0cd5b8.png"/></div> 
 
+## 六种状态
 
+Java API 层面
 
+<div align="center"> <img src="https://user-images.githubusercontent.com/37955886/118064698-1876b600-b3ce-11eb-87af-5d4847407ac5.png"/></div> 
 
-
+Java API 层面
 
 
 
